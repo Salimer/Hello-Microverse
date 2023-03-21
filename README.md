@@ -53,11 +53,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Hello Microverse** is a project where I learned how to use .gitignore, linters and pull requests. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
