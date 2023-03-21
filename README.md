@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <h3><b>Hello Microverse</b></h3>
 
 # 📗 Table of Contents
@@ -10,10 +11,6 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -28,13 +25,15 @@ The Hello Microverse website displays a header with Hello Microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-HTML(HTML-5).
-CSS
+### Tech Stack <a name="tech-stack"></a>
+
+- HTML(HTML-5)
+- CSS
 
 ### Key Features <a name="key-features"></a>
 
-Gitflow.
-Linters.
+- Gitflow.
+- Linters.
 
 <!-- LIVE DEMO -->
 
@@ -47,10 +46,15 @@ Linters.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
-1 clone Repo. https://github.com/Salimer/Hello-Microverse.git
+### Setup
 
-2 Install npm (node pakage manager) you can run any one of these commands to install npm on your machine:
+To run this project, you need to clone the repo locally by running in your terminal or command prompt 
+
+"git clone https://github.com/Salimer/Hello-Microverse.git"
+
+To navigate in the cloned directory by running in your terminal 
+
+"cd Hello-Microverse"
 
 ### Prerequisites
 
@@ -58,23 +62,23 @@ In order to run this project you need:
 A computer
 Access to Internet Connection
 
-### Setup
-
-Clone this repository to your desired folder:
-git@github.com/Salimer/Hello-Microverse.git
-cd Hello-Microverse
-
-### Install
-
-Install this project with:
-
-npm init -y
+<!-- AUTHORS -->
 
 ## 👥 Author <a name="authors"></a>
 
 👤 _Author_
 
 - GitHub: [@Salimer](https://github.com/Salimer)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- No future plans
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
