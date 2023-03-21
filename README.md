@@ -61,7 +61,7 @@ Access to Internet Connection
 ### Setup
 
 Clone this repository to your desired folder:
-git@github.com:Salimer/Hello-Microverse.git
+git@github.com/Salimer/Hello-Microverse.git
 cd Hello-Microverse
 
 ### Install
