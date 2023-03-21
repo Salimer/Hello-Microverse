@@ -48,7 +48,7 @@ Linters.
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-1 clone Repo. git@github.com:Salimer/Hello-Microverse.git
+1 clone Repo. https://github.com/Salimer/Hello-Microverse.git
 
 2 Install npm (node pakage manager) you can run any one of these commands to install npm on your machine:
 
